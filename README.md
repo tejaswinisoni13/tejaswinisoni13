@@ -62,7 +62,6 @@ Final-year Information Technology student at SGSITS, Indore, building systems ac
 | **AI-Powered Learning Analytics Dashboard** | Interactive dashboard analyzing student performance, risk distribution, and engagement trends | Streamlit, Scikit-learn, Plotly |
 | **[Dark Pattern Detection](https://github.com/tejaswinisoni13/dark_pattern_detention)** | ML system detecting deceptive UI patterns using NLP classification | Scikit-learn, NLP |
 | **[Animal Sound Classification](https://github.com/tejaswinisoni13/animal_sound_project)** | Deep learning model classifying animal sounds via audio feature extraction | TensorFlow, Keras, Librosa |
-| **ContractAI** | Chat-based contract management system built during internship at Sundeus Technology, Pune | FastAPI, MySQL, REST APIs |
 
 <br>
 
