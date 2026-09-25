@@ -3,7 +3,8 @@
 Information Technology Undergraduate (Final Year) | SGSITS, Indore
 Machine Learning, Computer Vision, and Full-Stack Development
 
-[LinkedIn](https://www.linkedin.com/in/tejaswini-soni-418413302/) Â• [Email](mailto:tejaswinisonisgsits29@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tejaswini-soni-418413302/) 
+[Email](mailto:tejaswinisonisgsits29@gmail.com)
 
 ---
 
