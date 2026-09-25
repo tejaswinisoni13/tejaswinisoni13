@@ -52,20 +52,6 @@ Final-year Information Technology student at SGSITS, Indore, building systems ac
 
 </div>
 
-<br>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejaswinisoni13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinisoni13&layout=compact&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinisoni13&theme=dark&hide_border=true" />
-
-</div>
-
-<br>
 
 ## Featured Projects
 
