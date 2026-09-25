@@ -1,78 +1,106 @@
+<div align="center">
+
 # Tejaswini Soni
 
-Information Technology Undergraduate (Final Year) | SGSITS, Indore
-Machine Learning, Computer Vision, and Full-Stack Development
+### Information Technology Undergraduate | Machine Learning & Full-Stack Development
 
-[LinkedIn](https://www.linkedin.com/in/tejaswini-soni-418413302/) · [Email](mailto:tejaswinisonisgsits29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-soni-418413302/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswinisonisgsits29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaswinisoni13)
 
----
+</div>
+
+<br>
 
 ## About
 
-I am a final-year Information Technology student at SGSITS, Indore, with hands-on experience in machine learning, deep learning, and full-stack web development. My work spans computer vision, audio classification, natural language processing, and building end-to-end applications with REST APIs and relational databases. I completed an internship at Sundeus Technology, Pune, where I developed backend systems for a contract management platform.
+Final-year Information Technology student at SGSITS, Indore, building systems across machine learning, computer vision, and full-stack web development. Experienced in taking projects from raw data to deployed application, backed by an internship developing production REST APIs and relational databases at Sundeus Technology, Pune.
 
----
+<br>
 
 ## Technical Skills
 
-**Programming Languages:** Python, Java, C, SQL
+<div align="left">
 
-**Machine Learning & Data Science:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Plotly
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Web Technologies:** HTML, CSS, JavaScript, FastAPI, Flask, REST APIs
+**Machine Learning & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Databases:** MySQL, SQLite
+**Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Tools & Platforms:** Git, GitHub, VS Code, MySQL Workbench, Jupyter Notebook, Streamlit
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejaswinisoni13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinisoni13&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinisoni13&theme=dark&hide_border=true" />
+
+</div>
+
+<br>
 
 ## Featured Projects
 
-### Human Action Recognition using KTH Dataset
-Deep learning-based system to classify six human actions from video sequences, achieving 80.83 percent accuracy.
-**Stack:** Python, TensorFlow, OpenCV, Scikit-learn
+| Project | Description | Stack |
+|---|---|---|
+| **[Human Action Recognition](https://github.com/tejaswinisoni13/kth_action_recognition)** | Deep learning system classifying six human actions from video sequences — **80.83% accuracy** | TensorFlow, OpenCV, Scikit-learn |
+| **[Smart Photo Fix Studio](https://github.com/tejaswinisoni13/Smart-Photo-Fix-Studio)** | AI-based image editing tool: background removal, enhancement, and automated ID photo generation with batch processing | Flask, OpenCV, Pillow, rembg |
+| **AI-Powered Learning Analytics Dashboard** | Interactive dashboard analyzing student performance, risk distribution, and engagement trends | Streamlit, Scikit-learn, Plotly |
+| **[Dark Pattern Detection](https://github.com/tejaswinisoni13/dark_pattern_detention)** | ML system detecting deceptive UI patterns using NLP classification | Scikit-learn, NLP |
+| **[Animal Sound Classification](https://github.com/tejaswinisoni13/animal_sound_project)** | Deep learning model classifying animal sounds via audio feature extraction | TensorFlow, Keras, Librosa |
+| **ContractAI** | Chat-based contract management system built during internship at Sundeus Technology, Pune | FastAPI, MySQL, REST APIs |
 
-### Smart Photo Fix Studio
-AI-based image enhancement and editing tool with background removal, brightness and sharpness correction, noise reduction, and automated ID photo generation with batch processing support.
-**Stack:** Python, Flask, OpenCV, Pillow, NumPy, rembg
-
-### AI-Powered Learning Analytics Dashboard
-Interactive dashboard for analyzing student academic performance and classroom engagement, including risk distribution, quiz trends, and grade analysis.
-**Stack:** Python, Streamlit, Scikit-learn, Pandas, NumPy, Plotly
-
-### Dark Pattern Detection using Machine Learning
-ML-based system to detect deceptive UI patterns using NLP preprocessing and text classification.
-**Stack:** Python, Scikit-learn, NLP
-
-### Animal Sound Classification
-Deep learning model for classifying animal sounds using audio preprocessing and feature extraction.
-**Stack:** Python, TensorFlow, Keras, Librosa
-
-### ContractAI — Chat-Based Contract Management System
-Developed during an internship at Sundeus Technology, Pune. Built REST APIs for authentication, contract management, and chat functionality, backed by a normalized MySQL database.
-**Stack:** Python, FastAPI, MySQL, REST APIs
-
----
+<br>
 
 ## Experience
 
-**Sundeus Technology, Pune** — Backend Development Intern
+**Backend Development Intern — Sundeus Technology, Pune**
 *June 2025 – July 2025*
-Developed REST APIs for authentication, contract management, and chat functionality; designed a normalized MySQL relational database with structured tables and foreign-key relationships.
+Built REST APIs for authentication, contract management, and chat functionality. Designed a normalized MySQL relational database with structured tables and foreign-key relationships.
 
----
+<br>
 
-## Leadership and Activities
+## Leadership & Activities
 
-- NCC Cadet, Corporal Rank, SGSITS Unit (2023–2026): Led college-level NCC activities and guided junior cadets.
-- Represented RGPV at a national-level volleyball tournament, 2024.
-- Active member, Toastmasters International Club: developed public speaking and communication skills through regular practice sessions.
+- **NCC Cadet, Corporal Rank** — SGSITS Unit (2023–2026): Led college-level NCC activities and guided junior cadets.
+- **National-Level Volleyball** — Represented RGPV at a national-level tournament, 2024.
+- **Toastmasters International Club** — Active member; developed public speaking and leadership skills through regular practice sessions.
 
----
+<br>
 
-## Contact
+<div align="center">
 
-Email: tejaswinisonisgsits29@gmail.com
-LinkedIn: [tejaswini-soni-418413302](https://www.linkedin.com/in/tejaswini-soni-418413302/)
-GitHub: [tejaswinisoni13](https://github.com/tejaswinisoni13)
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Tejaswini%20Soni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-soni-418413302/)
+[![Email](https://img.shields.io/badge/-tejaswinisonisgsits29%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejaswinisonisgsits29@gmail.com)
+
+</div>
