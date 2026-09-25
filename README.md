@@ -3,10 +3,6 @@
 Information Technology Undergraduate (Final Year) | SGSITS, Indore
 Machine Learning, Computer Vision, and Full-Stack Development
 
-[LinkedIn](https://www.linkedin.com/in/tejaswini-soni-418413302/) 
-[Email](mailto:tejaswinisonisgsits29@gmail.com)
-
----
 
 ## About
 
@@ -30,15 +26,15 @@ I am a final-year Information Technology student at SGSITS, Indore, with hands-o
 
 ## Experience
 
-**Sundeus Technology, Pune** â€” Backend Development Intern
-*June 2025 â€“ July 2025*
+**Sundeus Technology, Pune** — Backend Development Intern
+*June 2025 – July 2025*
 Developed REST APIs for authentication, contract management, and chat functionality; designed a normalized MySQL relational database with structured tables and foreign-key relationships.
 
 ---
 
 ## Leadership and Activities
 
-- NCC Cadet, Corporal Rank, SGSITS Unit (2023â€“2026): Led college-level NCC activities and guided junior cadets.
+- NCC Cadet, Corporal Rank, SGSITS Unit (2023–2026): Led college-level NCC activities and guided junior cadets.
 - Represented RGPV at a national-level volleyball tournament, 2024.
 - Active member, Toastmasters International Club: developed public speaking and communication skills through regular practice sessions.
 
@@ -49,4 +45,3 @@ Developed REST APIs for authentication, contract management, and chat functional
 Email: tejaswinisonisgsits29@gmail.com
 LinkedIn: [tejaswini-soni-418413302](https://www.linkedin.com/in/tejaswini-soni-418413302/)
 GitHub: [tejaswinisoni13](https://github.com/tejaswinisoni13)
-
